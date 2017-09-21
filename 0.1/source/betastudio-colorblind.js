@@ -144,4 +144,4 @@ _private_Init(config.doc, config.testMode);
 return this;
 }(betaStudio_module_colorBlind_config));
 
-betaStudio_module_colorBlind.SetAchromatopsiaFilter();
+
