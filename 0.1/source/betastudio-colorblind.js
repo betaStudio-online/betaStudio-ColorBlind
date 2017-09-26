@@ -65,7 +65,7 @@
                                                                                                                                                                                                      
                                                                                                                                                                                                      
                                                                                                                                                                                                      
-
+*/
 
 var betaStudio_module_colorBlind_config = {
     doc:         document,/* target document (with a body tag )object to apply */
@@ -144,4 +144,4 @@ _private_Init(config.doc, config.testMode);
 return this;
 }(betaStudio_module_colorBlind_config));
 
-
+betaStudio_module_colorBlind.SetAchromatopsiaFilter();
